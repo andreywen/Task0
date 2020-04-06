@@ -1,4 +1,4 @@
-# Task_00   CSS styles corrections
+Задача 0 - Правки по стилям
 
 
 
